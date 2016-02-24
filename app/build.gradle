@@ -17,6 +17,7 @@ android {
         // 默认渠道号
         manifestPlaceholders = [UMENG_CHANNEL_VALUE: "umeng"]
     }
+    
     buildTypes {
         release {
             minifyEnabled false
@@ -51,6 +52,7 @@ android {
         xiaomi {}
         baidu {}
     }
+    
     productFlavors.all {
         flavor -> flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
     }
