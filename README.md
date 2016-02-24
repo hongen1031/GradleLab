@@ -8,3 +8,4 @@ Android Studio Gradle的练习项目
 3、练习Android Studio用git做版本管理并发布到github
 
 打分支BrancheTest1后的修改
+在分支上BrancheTest1上的修改
