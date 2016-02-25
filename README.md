@@ -8,3 +8,5 @@ Android Studio Gradle的练习项目
 3、练习Android Studio用git做版本管理并发布到github
 
 4、在Branch1上的修改（1）、在Branch1上的第二次修改（4）
+
+5、在master上的修改（2）、master第二次修改（3）
